@@ -1,0 +1,595 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hopefull way to cure, that horrid sinne of svvearing. Or an helpe to save swearers, if willing to be saved: being an offer or message from him, whom they so daringly, and audatiously provoke. Also a curb against cursing.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97249</idno>
+            <idno type="STC">Wing Y160AB</idno>
+            <idno type="STC">Thomason E24_2</idno>
+            <idno type="STC">ESTC R211952</idno>
+            <idno type="EEBO-CITATION">99870619</idno>
+            <idno type="PROQUEST">99870619</idno>
+            <idno type="VID">123012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123012)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E24[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hopefull way to cure, that horrid sinne of svvearing. Or an helpe to save swearers, if willing to be saved: being an offer or message from him, whom they so daringly, and audatiously provoke. Also a curb against cursing.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>At Iames Crumps a booke-bimder, iu [sic] Little Bartholmewes Well yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Younge.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Imprint and errata appear in last two paragraphs: imprint in penultimate paragraph, errara in final paragraph.</note>
+                  <note>Annotation on Thomason copy: "Lond: Jan: 7. 1644." on title page; the final two paragraphs of page 4 are crossed out, and the catchword "And" is written in MS. at foot.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Swearing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:123012:1"/>
+            <pb facs="tcp:123012:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> Hopefull way to <hi>Cure,</hi> that <hi>horrid</hi> Sinne of SVVEARING.</head>
+            <head type="sub">Or an helpe to ſave Swearers, if willing to be ſaved: being an Offer or Meſſage from HIM, whom they ſo <hi>Daringly,</hi> and <hi>Audatiouſly</hi> provoke.</head>
+            <p rend="italic">Before you lay it by, at leſt read the <hi>Poſtcript</hi> at the End.</p>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>SIr, methinkes you ſware and curſe as if he that made the eare could not heare, Or as if he were neither to be feared nor cared for, who for ſinne caſt the Angells out of heaven, <hi>A<g ref="char:EOLhyphen"/>dam</hi> out of Paradice, drowned the old world, rained down fire and brimſtone upon <hi>So<g ref="char:EOLhyphen"/>dome,</hi> commanded the earth to open her mouth and ſwallow down quicke <hi>Corah</hi> and his company, he who ſmote <hi>Egypt</hi> with ſo many plagues, overthrew <hi>Pharoah</hi> and his hoſt in the Red Sea; deſtroyed great and mighty Kings, giving their land for an inheritance to his people, And can as eaſily with a word of his mouth ſtrike you dead while you are blaſpheming him, and caſt you body and ſoule into hell for your odious unthankefullneſſe; Yea it is a mercy beyond expreſſion that he hath ſpared you ſo long.</p>
+               <p>What, becauſe you are diſpleaſed with others, will you fly in your makers face? and tare your Saviours name in peices? This is worſe then frenzy, this is to ſend challenges into heaven, and make love to diſtruction; conſider of it leaſt you ſweare away your part in that blood which muſt ſave you, if ever you be ſaved; yea, take heed leaſt you be plagued with a witnes, and that both here and here after, for God (who cannot lye) hath threatned that his curſe ſhall never de<g ref="char:EOLhyphen"/>part from the houſe of the ſwearer, as it is <hi>Zach.</hi> 5.1. to 5. And I doubt not but you are already curſed, though you know it not; That either he hath curſed you in your body by ſending ſome foule diſeaſe, or in your eſtate by ſuddainly conſuming it, or in your name by blemiſhing and blaſting it, or in your ſeed by not proſpering it, or in your mind by darkning it, or in your heart by hardning it, or in your conſcience by terrifying it, or will in your ſoule by everlaſtingly dam<g ref="char:EOLhyphen"/>ning it, if you repent not. Wherefore take heed what you doe before it prove too late.</p>
+               <p>Or if you regard not your ſelfe, or your owne ſoules good, yet for the Kingdomes good leave your ſwaring, for the Lord (as now we find to our ſmart) hath a great controverſie with the in<g ref="char:EOLhyphen"/>habitants of the land becauſe of ſwaring, <hi>Hoſea</hi> 4.1.2. Yea becauſe of oaths the whole land (even the 3. Kingdomes) now mourneth, or rather lyes a bleeding, and that to death, as you may ſee, <hi>Ier.</hi> 23.10. Neither object that ye are ſo accuſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to ſwaring that you cannnot leave it, for this defence is worſe then the offence, as take an inſtance. Shall a Thiefe or Murtherer at the barre aleadge for his defence, that it hath beene his uſe and cuſtome of a long time to rob and kill; or if he doe, will not the Judge ſo much the rather ſend him to the Gallowes.</p>
+               <p>Beſides, the objection is falſe and frivilus, for weare you forced to pay 12. pence for every oath you ſweare, (as the law injoynes) or if you were ſure to have your tongue cut out (which is too light a puniſhment for this ſin, damnation being the due penalty thereof, as the Apoſtle ſets it downe, <hi>James</hi> 5.12. You both could and would leave it: Wherefore I beſeech you by the mercies of God, (who hath removed ſo many evills and conferred ſo many good things upon
+<pb facs="tcp:123012:2"/>you, that they are beyond thought or imagination) to leave it, eſpecially after this warning, which in caſe you do not will be a ſore witneſſe, &amp; riſe up in judgment againſt you another day.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>Did I ſware or curſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Very often, as all here preſent can witneſſe, and Satan alſo, who ſtands by to take notice: reckon up and ſet on your ſcore every oath you utter, keeping them upon record againſt the great day of aſize, at which time every oath will prove as a daggars point ſtabbing your ſoule to the heart, or as ſo many waights preſſing you downe to hell; <hi>Revelat.</hi> 12.10. As alſo the ſearcher of hearts, who himſelfe will one day be a ſwift witneſſe againſt ſwarers; <hi>Mal.</hi> 3.5. For of all other ſinners the Lord will not hould him guiltleſſe that taketh his name in vaine; as the third commandement tells you, <hi>Exod.</hi> 20.7.</p>
+               <p>But woe is me, it fares with common ſwarers as with perſons deſperately deſeaſed, whoſe ex<g ref="char:EOLhyphen"/>crements and filth comes from them at unawars; for as by much labour the hand is ſo hard<g ref="char:EOLhyphen"/>ned that it hath no ſence of labour, ſo there much ſwaring cauſeth ſuch abrawny skin of ſence<g ref="char:EOLhyphen"/>leſſeneſſe to overſpread the heart, memory and conſcienee, that the ſwarer ſwareth unwittingly; and having ſworne hath no remembrance of his oath, much leſſe repentance for his ſin.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>Alaſſe though I did ſware yet I thought no harme?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>O foole, what Prince hearing himſelfe abuſed to his face, by the reproachful words of his baſe and impotent Subject, would admit of ſuch an excuſe, that whatſoever he ſpake with his mouth, yet he thought no ill in his heart? And ſhall God take this for a good anſwer, having told us beforehand <hi>Deut.</hi> 28.58.59. that if we doe not feare and dread his glorious and fearfull name, the Lord our God he will make our plagues wonderfull, and of long conti<g ref="char:EOLhyphen"/>nuance, and the plagues of our poſterity? Beſides, how frequently doeſt thou polute and pro<g ref="char:EOLhyphen"/>phaine Gods name, and thy Saviours? The Jewes greviouſly finned in cruſifying the Lord of life but once, and that of ignorance, but the times are innumerable that thou doeſt it, every day in the yeare, every hower in the day, although thy conſcience, and the holy ſpirit of grace hath checkt thee for it a thouſand and a thouſand times.</p>
+               <p>Doeſt thou expect to have Chriſt thy Redeemer and Advocate, when thy conſcience tells thee that thou haſt ſeldome remembred him but to blaſpheme him, and more often named him in thy oaths and curſes then in thy prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>Surely if I did ſweare, it was but faith and troth, by our lady, the maſſe, the roode, the light, this bread, by the croſſe of the ſilver, or the like, which is no great matter, I hope, ſo long as I ſweare not by God nor by my Saviour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Thats your groſſe ignorance of the Scriptures, for God expreſly forbids it, and that upon paine of damnation. <hi>James</hi> the 5.12. Firſt our Saviour Chriſt in his owne perſon forbids it. <hi>Mat.</hi> 5.34, 35, 36.37. I ſay unto you ſware not at all, neither by heaven, for it is Gods throne, nor by earth, for it is his footſtoole, nor by <hi>Jeruſalem,</hi> for it is the City of the great King; neither ſhalt thou ſweare by thine head, becauſe thou canſt not make one haire white or black; but let your communication be Yea, Yea, Nay, Nay, for whatſoever is more then theſe commeth of evill: and then by his Apoſtle; Above all things my breathren, ſware not, neither by heaven; nor by earth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or by any other oath, but let your yea, be yea, and your nay, nay, leaſt you fall into condemnation. <hi>James</hi> 5.12. Where marke the Emphaſis, in the firſt words; <hi>Above all things ſware not;</hi> and the great danger of it, in the laſt word <hi>condem<g ref="char:EOLhyphen"/>nation.</hi>
+               </p>
+               <p>If the matter be light &amp; vaine, we muſt not ſweare at all, if ſo waighty, that we may lawfully ſweare as before a Magiſtrate being called to it; then we muſt only uſe the glorious name of our God in a holy &amp; religious mannor, as you may ſee. <hi>Deut.</hi> 6.13. <hi>Iſa.</hi> 45.23. &amp; 65.16. <hi>Joſh.</hi> 23.7. <hi>Ier.</hi> 5.7. <hi>Exod.</hi> 23.13. And the reaſons of it are waighty, if we look into them: for in ſwa<g ref="char:EOLhyphen"/>ring by any creature whatſoever, wee doe invocate that creature, and aſcibe to it divine wor<g ref="char:EOLhyphen"/>ſhip:
+<pb facs="tcp:123012:2" rendition="simple:additions"/>a lawfull oath being a kind of invocation, and a part of Gods worſhip, Yea, whatſoever wee ſweare by, that we invocate, both as our witneſſe, ſurety, and judge, <hi>Heb.</hi> 6.16. and by conſequence deifie it, by aſcribing, &amp; communicating unto it, Gods incommunicable atributes: as his omnipreſents, and omniſiencie of being every where preſent, and knowing the ſecret thoughts and intentions of the heart, and likewiſe an omnipotency, as being almighty in pa<g ref="char:EOLhyphen"/>troniſing, protecting, defending and rewarding us for ſpeaking the truth, or puniſhing us if we ſpeake falſly: All which are ſo peculiar to God, as that they can no way be communicated or aſcribed to another. So that in ſwaring by any of thoſe things, thou committeſt an heigh degree of groſſe Idollatry, thou ſpoyleſt and robbeſt God of his glory (the moſt impious kind of theft) and in a manner dethroneſt him and placeſt an Idoll in his roome. And as to ſweare by the crea<g ref="char:EOLhyphen"/>ture makes the ſin far more haynous, ſo the more meane and vile the thing is which you ſweare by (be it by my fey, by cocke and pie, hares foote, by this cheeſe and ſuch like childiſh oaths which are ſo much in uſe with the ignorant and ſuperſtitious ſwarme) the greater is your ſinne in ſwearing ſuch an oath, becauſe you aſcribe that unto theſe baſeſt of creatures, which is only proper to God; namely to know your heart, and to be a deſeruer of ſecret things; why elſe ſhould you call that creature as a witneſſe unto your conſcience, that you ſpeake the truth and lye not, which only belongeth to God? And therefore the Lord calls it a forſaking of him: as marke well what he ſaith <hi>Jer</hi> 5.7. How ſhall I ſpare thee for this? thy children have forſaken me and ſworne by them that are no Gods. <hi>Exod.</hi> 23.13. And doe you make it a ſmall matter to forſake God, and make a God of the creature? Will you beleeve the Prophet <hi>Amos.</hi> If you will, he ſaith (ſpeaking of them that ſwore by the ſin of <hi>Samaria</hi>) that they ſhall fall and never riſe againe. <hi>Amos</hi> 8.14. a terrible place to vaine ſwarers.</p>
+               <p>Neither are we to joyne any other with God in our oaths; for in ſo doing we make baſe Idolls and filthy creatures corrivalls in honour, and competitors in the throne of juſtice with the Lord who is creator of heaven and earth, and the ſupreame judge and ſole Monnarke of all the world.</p>
+               <p>Or in caſe we doe, our doome ſhall be remedileſſe, for the Lord threatneth by the Prophet <hi>Zephany,</hi> that he will cut off them that ſweare by the Lord, and by <hi>Maulcham:</hi> which <hi>Maulcham</hi> was there King, or as ſome thinke their Idoll, <hi>Zeph.</hi> 1.4.5.</p>
+               <p>But admit the ſinne were ſmall, as you would have it to be, yet the circomſtances make it moſt hainous; for even the leaſt ſinne in its owne nature is not only mortall, but unpardona<g ref="char:EOLhyphen"/>ble, ſo long as it is willingly committed and excuſed or defended.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>But all doe ſweare except ſome few ſingular ones, and they alſo will lye, which is as bad.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>You muſt not meaſure all others by your owne Buſhell, for although ill diſ<g ref="char:EOLhyphen"/>poſitions cauſe ill ſuſpitions, even as the eye that is bloodſhot ſees all things red, or as they that have the Jaunders ſee all things yellow; yet know that there be thouſands who can ſay tru<g ref="char:EOLhyphen"/>ly, through Gods mercy, that they had rather chooſe to have their ſoules paſſe from their bo<g ref="char:EOLhyphen"/>dies, then a willfull premeditated lye, or a wicked oath from their mouths; wherefore when you want experience, thinke the beſt, as charity bids you, and leave what you know not to the ſear<g ref="char:EOLhyphen"/>cher of hearts.</p>
+               <p>As for the number of ſwearers, it cannot be denied, but the ſinne is almoſt univerſall, and this is it which hath inſenſed Gods wrath, &amp; almoſt brought an univerſal deſtruction upon our whole Nation: But is not this excuſe, <hi>that others doe ſo;</hi> a moſt reaſonleſſe plea, and only be<g ref="char:EOLhyphen"/>comming a foole? when our Saviour Chriſt hath plainly told us, that the greateſt number goe the broade way to diſtruction, and but a few the narrow way which leadeth unto life: <hi>Mat.</hi> 7.13.14. and St. <hi>Iohn</hi> that the whole world lyeth in wickedneſſe. 1 <hi>Iohn</hi> 5.19. And that the number of thoſe whom Satan ſhall deceive, is as the ſand of the Sea. <hi>Revelat.</hi> 20.8. and 13.16. <hi>Iſay</hi> 10.22. <hi>Rom.</hi> 9.27. And tell me, were it a good plea to commit a fellony, and ſay
+<pb facs="tcp:123012:3" rendition="simple:additions"/>that others doe ſo? Or wilt thou leape into hell and caſt away thy ſoule, becauſe others doe ſo? A ſorry comfort it will be to have a numerous multitude accoompany us into that lake of fier, that nver ſhall be quenched.</p>
+               <p>Beſides, it is Gods expreſſe charge <hi>Exod.</hi> 23.2. Thou ſhalt not follow a multitude to doe evill; and St. <hi>Paules</hi> everlaſting rule. <hi>Rom.</hi> 12.2. Faſhion not your ſelves like unto this world.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>But I may lawfully ſweare, ſo I affirme nothing but the truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>If you be lawfully called to it as before a Magiſtrate, or when ſome urgent mat<g ref="char:EOLhyphen"/>ter conſtraineth for the confirming of a neceſſary truth, (which can by no other lawful meanes be cleared) and for the ending of al contentions and controverſies, and clearing our own or our neighbours good name, perſon or eſtate, and to put an end unto all ſtrife, ayming at Gods glo<g ref="char:EOLhyphen"/>ry, and our owne or our neighbours good, which is the only uſe and end of an oath; in which caſe a man is rather a patient then a voluntary agent, You may ſweare, otherwiſe not.</p>
+               <p>Neither muſt we ſweare at all in our ordinary communication, if we will obay Gods word, as you may ſee <hi>Mat.</hi> 5.34.35, 36, 37. <hi>Iames</hi> 5.12.</p>
+            </sp>
+            <sp>
+               <speaker>Swarer.</speaker>
+               <p>
+                  <hi>Except I ſweare men will not beleeve me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>Thou hadſt as good ſay, I have ſo often made ſhipwrack of my credit by accuſto<g ref="char:EOLhyphen"/>mary lying, that I can gaine no beleefe unto my words without an oath; for it argues a guilty conſcience of the want of credit, and that our word alone is worth no reſpect, when it will not be taken without a paune or ſurety. Neither will any but baſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> banquerouts pawne ſo pretious a jewel as their faith for every ſmall trifle. Beſides, he that often ſweareth not ſeldome forſwea<g ref="char:EOLhyphen"/>reth. And ſo I have informed you from Gods word what the danger is of vaine and wicked ſwearing.</p>
+               <p>Now if you either beleeve the ſcriptures, or deſire to eſcape that dyerful ſentence; Depart from me yee curſed into everlaſting fier prepared for the Devil &amp; his Angels. <hi>Mat.</hi> 25.41. No longer excuſe nor defend it, but repent of it and forſake it; And ſo much the rather for that of all other ſinnes this ſinne of ſwearing is the moſt in excuſable. Firſt, Becauſe it is a ſin from which of all other ſinnes we have moſt power of abſtinance, as I ſhewed you before; and the eaſiar the thing commanded is, the greater guilt in the breach of it; and the lighter the injunction, the heavier the tranſgreſſion; as St. <hi>Auſtine</hi> ſpeakes, and <hi>Adam</hi> his eating the forbidden fruit ſuffi<g ref="char:EOLhyphen"/>ciently proves.</p>
+               <p>Secondly; becauſe it is a ſinne, to which of all other ſinnes we have the feweſt temptati<g ref="char:EOLhyphen"/>ons; for all thou canſt expect by it is the ſuſpition of a common lyer, by being a common ſwearer; Or that thou ſhalt vex others and they ſhall hate thee, for it bringeth not ſo much as any apearance of good unto us to induce us: for whereas other ſinnes have their ſeverall bayts to alure us: ſome the bayte of profit, ſome of honour, ſome of pleaſure, this ſinne is deſtitute of them all, and only bringeth much loſſe here, namely of credit and a good conſcience, and the loſſe of Gods faviour, and the Kingdome of heaven hereafter: which is of more vallew then ten thouſand worlds: which ſhewes that thou loveſt this ſinne only becauſe it is a ſinne, and ſweareſt out of meere malice, and contempt of God; which is moſt fearfull: and (as a man would thinke) ſhould make it unpardonable. I am ſure the Pſalmiſt hath a terrible word for all ſuch, if they would take notice of it; Let them be confounded that tranſgreſſe without a cauſe, <hi>Pſal.</hi> 25.3.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer,</speaker>
+               <p>
+                  <hi>O but God is mercifull, and Chriſt came into the world to ſave ſinners; witneſſe the Theefe upon the croſſe, who was heard by him at the laſt houre</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>I grant the Lord is exceeding mercifull and gratious, ſlow to anger, and abun<g ref="char:EOLhyphen"/>dant in goodneſſe and truth keeping mercy for thouſands, forgiving <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iquity, tranſgreſſion and ſinne, for he proclaimes himſelfe ſo. <hi>Exod.</hi> 34.6, 7. But he will by no meanes cleare the ungodly,</p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <p>
+                  <pb n="5" facs="tcp:123012:3"/>
+And no marvell, that this fearefull imprecation ſhould fall from the Prophets mouth; for that man is bottomleſly ill, who loves vice meerely becauſe it is a vice, and becauſe God moſt ſtrictly forbids it He is a deſperate, prodigeous, damnable wretch, who (rather then not dye) will anger God on ſet purpoſe.</p>
+               <p>But as if ſwearing alone would not preſſe thee deepe enough into hell, thou addeſt Curſing to it, a ſinne of an higher nature: which none uſe frequently, but ſuch as are deſperately wicked: it being their peculier brand in Scripture; as how doth the Holy Ghoſt ſtigmatize ſuch an one? <hi>His mouth is full of curſing,</hi> Pſal. 10.7. and Rom. 3.14. or <hi>Hee loveth curſing,</hi> Pſal. 109.17. and indeede, whom can you obſerve to love this ſinne? or to have their mouthes full of curſing; but ruff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ines, and ſonnes of Beliall; ſuch as have ſhaken out of their hearts the feare of God, the ſhame of men, the love of heaven, the dread of hell, not once caring what is thought or ſpoken of them here, or what becomes of them hereafter; yea obſerve them well and you will finde, that they are mockers of all, that march not under the pay of the Devill.</p>
+               <p>And whence doe theſe monſters of the Earth? theſe helliſh miſcreants, theſe bodily and viſ<g ref="char:EOLhyphen"/>ble devills, learne this their damnable curſing and ſwearing; are not there tongues fired and edged from hell, as Saint <hi>James</hi> hath it, Iam. 36. yea it is the very language of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he damned, as you may ſee Revel. 16.11.21. Only they learne it heare, before they come thither: and are ſuch proficients therein, that the devill counts them his beſt ſchollers, and ſetts them in his higheſt forme. <hi>Pſal.</hi> 1.1. well they deſerve it, with whom the language of hell is ſo familiar, that blaſphemy is become their mother tongue Beſides it is the very depth of ſin, roaring and drinking is the horſe way to hell whoring and cheating, the foot way; but ſwearing and curſing followes <hi>Corah, Dathan,</hi> and <hi>Abiram.</hi> And certainely if the infernall Tophet be not for theſe men, it can challenge no gueſts. But ſee how witleſſe, graceleſſe, and ſhameleſſe, even the beſt are that uſe to curſe; (for I paſſe over ſuch as call for a curſe on themſelves ſaying, God damne me, confound mee, the devill take me, and the like; which would make a rationall man tremble to name; becauſe I were as good knocke at a dead mans grave, as ſpeake to them.</p>
+               <p>Thou art croſſed by ſome one, perhaps thy wife, child, or ſervant; or elſe thy horſe, the weather, the dice, bowles, or ſome other of the creatures diſpleaſe thee; and thou falleſt a curſing, and blaſpheming them, wiſhing the plague of God; or Gods vengeance to light on them, or ſome ſuch helliſh ſpeech falles from thy foule mouth. And ſo upon every fooliſh trifle, or every time thou art angry, God muſt be at thy beck, and come downe from heaven in all haſt, and become thine officer to revenge thy quarrell, and ſerve thy malicious humour. (O monſtrous impiety! O ſhameleſſe impudency! to be obhorred of all that heare it.) not once taking notice what hee commands in his word; As <hi>bleſſe them that perſecute you, bleſſe I ſay and curſe not,</hi> Rom. 12.14. and againe, <hi>Bleſſe them that curſe you, and pray for them which hurt you, Luk.</hi> 6.28. which is the practiſe of all true chriſtians, 1 <hi>Cor.</hi> 4.12.</p>
+               <p>But this is not one halfe of thine offence, for whom doſt thou curſe? alaſſe the creatures that diſpleaſe thee are but inſtruments, thy ſin is the cauſe, and God is the Author, 2 <hi>Sam.</hi> 16 11. <hi>Pſal.</hi> 39.9, 10. <hi>Gen.</hi> 458. <hi>Ioh</hi> 1.21. from whom thou haſt deſerved it, and ten thouſand times a greater croſſe. But in ſtead of looking up from the ſtone, to the hand which threw it; or from the effect, to the cauſe; as Gods people doe; thou like a maſtiffe dogge ſetteſt upon the ſtone or weapon that hurts thee. But in this caſe who are you angry withall? Does your Horſe, the dice, the raine, or any other creature diſpleaſe you? alaſſe they are but ſervants, and if their maſter bids ſmite, they muſt not forbeare; they may ſay truely, what <hi>Rabſheke</hi> u<g ref="char:EOLhyphen"/>ſurped, <hi>Jſa.</hi> 36.10. <hi>Are we come without the Lord,</hi> and all that heare thee may ſay as the Prophet did to <hi>Senacharib.</hi> 2 <hi>King.</hi> 19.22. <hi>Whom haſt thou blaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>themed? and againſt whom haſt thou axalted thy ſelfe? even againſt the holy one of Jſrael.</hi>
+               </p>
+               <p>And what will be the iſſue? the cauſeleſſe curſe ſhall not come where the curſer meant it.
+<pb n="6" facs="tcp:123012:4"/>
+                  <hi>Prov.</hi> 26.2. yea though thou curſeſt, yet God will bleſſe <hi>Pſal.</hi> 109.28. but thy curſes ſhall be ſure to rebound backe into thine owne breſt. <hi>Pſal.</hi> 7.14, 15, 16. <hi>Prov.</hi> 14.30. Curſing mouthes are like ill made peeces, which while men diſcharge at others, recoile in ſplinters on their owne faces. Their words and wiſhes be but whirle winds, which being breathen forth, returne againe to the ſame place. As heare how the Holy Ghoſt delivers it. <hi>Pſal.</hi> 109. As he loved curſing, ſo ſhall it come unto him, and as he loved not bleſſing, ſo ſhall it be farre from him. As hee cloathed himſelfe with curſing like a garment, ſo ſhall it come into his bowels like water, and like oyle into his bones; let it be unto him as a garment to cover him, and for a girdle where<g ref="char:EOLhyphen"/>with he ſhall alwaies be girded. <hi>ver.</hi> 17, 18, 19. Here this all ye, whoſe tongues tunne ſo faſt one the devills arrand, you loved curſing, you ſhall have it, both upon you, about you, and in you, and that everlaſtingly if you perſereve and goe on; for Chriſt himſelfe at the laſt day, even he which came to ſave the world, ſhall ſay unto all ſuch, depart from me ye curſed, into ever<g ref="char:EOLhyphen"/>laſting fire, prepared for the Devill and his Angells. <hi>Mat.</hi> 25.41. Where they ſhall doe no<g ref="char:EOLhyphen"/>thing but curſe for evermore; for they no farther apprehending the goodneſſe, mercy, and bounty of God, then by the ſenſe of their owne torments, the effects of his juſtice ſhall hate him, and hating him they ſhall curſe him <hi>Revel.</hi> 16.11.21. They ſuffer, and they blaſpheme, there is in them a furious malice againſt him, being curſed of him they recurſe him; they curſe him<g ref="char:punc">▪</g> for making them, curſe him for condemning them, curſe him becauſe being ajudged to death, they can never finde death; they curſe his puniſhments becauſe they are ſo unſufferable, curſe his mercies, becauſe they may never taſt them; curſe the blood of Chriſt ſhed on the Croſſe, becuſe it hath ſatisfied for milions, and done their unbeleeving ſoules no good; curſe the Angells and Saints in heaven, becauſe they ſee them in joy and themſelves in torment; Curſings ſhall be their ſins, and their chiefe eaſe; Blaſphemies their Prayers; Lacrimae their notes; Lamentation all their harmony: theſe ſhall be their evening ſonges, their morning ſongs, their mourning ſongs for ever &amp; ever. And indeede who ſhall go to hell, if curſers ſhould be left out. Wherefore let all thoſe learne to bleſſe, that looke to be heirers of the bleſſing.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>O But God is mercifull, and Chriſt came into the world to ſave ſinners; witneſſe the Theefe upon the Croſſe, who was heard by him at the laſt houre.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <p>I grant the Lord is exceeding mercifull and gratious, flow to anger, and abun<g ref="char:EOLhyphen"/>dant in goodneſſe and truth, keeping mercy for thouſands, forgiving iniquity, tranſgreſſion and ſinne, for he proclaimes himſelfe ſo. <hi>Exod.</hi> 34.6, 7. But he will by no meanes cleare the ungodly, but viſit the iniquitie of their fathers upon their children, and upon their childrens children, unto the third and fourth generation, as it followes in the very ſame verſe. Yea, he will reward the wicked according to their workes <hi>Revel.</hi> 20.12.13. and 22.12.</p>
+               <p>Indeed a world of men beleeve with <hi>Orrigen,</hi> that God is ſo mercifull that all ſhall be ſaved; they preſume that God muſt needs ſave them, becauſe he made them, without any other ground, though in another fit they are as apt to diſpayre, &amp; to ſay with the ſame <hi>Origen,</hi> ſhould all other ſinners obtaine mercy yet not I. Wicked men are altogether in extreames, at firſt they make queſtion whether this or that be a ſinne, at laſt, they apprehend it ſuch a ſinne, that they make queſtion whether it can be forgiven. Either God is ſo mercifull that they may live how they liſt; or ſo juſt, that he will not pardon them upon their repentance. No meane with them, between the rock of preſumption, and the gulfe of diſpayer.</p>
+               <p>But the tenure of the word of God runs thus. Let the wicked forſake his wayes, and the un<g ref="char:EOLhyphen"/>righteous his own imaginations, and returne unto the Lord, and he will have mercy upon him, and to our God, for he is very ready to forgive. As <hi>Eſay</hi> hath it, Chap. 55 7. And that we ſhould not doubt of this, the Lord redoubles his promiſe, <hi>Ezek.</hi> 18. And confirmes the ſame with an oath Chap. 33.11. Yea, he is more ready to ſhew mercy upon our repentance, then we are to beg it, as appeares in the example of the Prodigall Sonne. <hi>Luke</hi> 15.20, Doe but repent and God
+<pb n="7" facs="tcp:123012:4"/>will pardon you; bee your ſinnes never ſo many and innumerable for multitude, never ſo haynous for qualitie and magnitude: for repentance is alwayes bleſt with forgiveneſſe. Yea, ſinnes upon repentance are ſo remitted, as if they had never beene committed. I have put away thy tranſgreſſions as a cloud, and thy ſinnes as a miſt. <hi>Eſay</hi> 44.22. And what by corruption hath beene done, by repentance is undone; as a bundance of examples witneſſe Hee pardoned <hi>Davids</hi> Murther and Adultery, <hi>Solomons</hi> Idolatry, <hi>Peters</hi> Apoſtacy, <hi>Paul</hi> did not only deny Chriſt, but perſecuted him, yet he obtained mercy upon his repentance: yea amongſt the worſt of Gods enemies ſome are ſingled out for mercy, witneſſe <hi>Manaſſes, Mary Magdalen,</hi> the Theefe, &amp;c. Many of the Jewes did not onely deny Chriſt the holy one and the juſt, but crucified him, yet were they pricked in there hearts at <hi>Peters</hi> Sermon, gladly received the word, &amp; were baptized. <hi>Act.</hi> 2.41. But on the other ſide, unleſſe we repent and amend our lives, we ſhall all periſh, as Chriſt himſelfe affirmes. <hi>Luk.</hi> 13.3.5. For though mercy rejoyceth againſt juſtice, <hi>Iam</hi> 2.13. yet it deſtroyeth not God juſtice: he is juſt as well as mer<g ref="char:EOLhyphen"/>cifull; his mercy is a juſt mercy, and his juſtice is not an unmercifull juſtice, he is infinite in both, and therefore in his word he hath equally promiſed, all bleſſings (ſpirituall, temporall, and eternall) unto thoſe that keepe his commandements, and threatned all mannor of judgements to thoſe that break them, with their ſeverall extreames, according to the meaſure &amp; degree of every ſin. <hi>Deut.</hi> 28. which chapter, together with the former, I wiſh thee to reade, if thou wilt know thy ſelfe, and foreknow thy judgement. Neither is ſalvation more promiſed to the godly, then eternall death and deſtruction is threatned to the wicked, both in the old and new Teſtament. And as Chriſt is a Saviour, ſo <hi>Moſes</hi> is an accuſer. <hi>Iohn</hi> 5.45. Alaſſe though to all repentant ſinners, he is amoſt mercifull God, yet to wilfull and inpenitente ſinners, hee is a conſuming fire. <hi>Heb.</hi> 12.29. <hi>Deut.</hi> 4.24. Doth not the Apoſtle ſay that neither fornecators nor idolaters, nor adulterers, nor buggerers, nor theeves, nor coveteous, nor drunkards, nor raylers, nor ex<g ref="char:EOLhyphen"/>tortioners, to which number Saint <hi>Iohn Revel.</hi> 21.8. addeth the fearefull, and unbeleeving, &amp; murtherers, and ſorſerers, and all lyers ſhall not inherit the Kingdome of God, but ſhall have their part in the lake which burneth with fire and brimſtone which is the ſecond death. 1. Cor. 6.9, 10. <hi>Gal.</hi> 5.21. And doth he not likewiſe affirme? that all they ſhall bee damned which beleeved not the truth, but had pleaſure in unrighteouſneſſe. 2 <hi>Theſ</hi> 2.12. doth not the Lord ſay <hi>Ier.</hi> 16.13. that he will have no mercy for ſuch as are deſeparately wicked, and againe <hi>Deut.</hi> 29.19.20. That if any man bleſſe himſelf in his heart ſaying, I ſhall have peace although I walke according to the ſtubborneneſſe of mine owne heart: ſo adding drunkeneſſe to thirſt the Lord will not be mercifull unto him, but the wrath of the Lord and his jelouſie ſhall ſmoake againſt that man, and every curſe that is written in his booke ſhall light upon him; and the Lord ſhall put out his name from under Heaven, &amp;c. Doth not our Savour himſelfe ſay? that the gate of heaven is ſo ſtraight that few finde it <hi>Mat.</hi> 7.13.14. and will he not at his com<g ref="char:EOLhyphen"/>ming to judgement, aſwell ſay to the diſobedient? depart from me ye curſed, as to the obedient come ye bleſſed of my father, inherit the kingdome, &amp;c. yes they are his owne words. <hi>Mat.</hi> 25 34.41. In fine, he that beleeveth in the ſonne hath everlaſting life, but he that obeyeth not the ſunne ſhall not ſee life; but the wrath of God abideth on him. <hi>Iohn</hi> 3.36.</p>
+               <p>And in all reaſon, if he puniſhed <hi>Davids</hi> Adultery and Murther ſo ſharpely, (a man after his owne heart, yea and that after his ſinne was remitted) what will he doe to his enemies, but ſend them to that devowring fire, that everlaſting burning. <hi>Iſay</hi> 33.14. If Gods owne children (who are as neere and deare to him as the aple of his eye, or the ſignet on his right hand. <hi>Zach.</hi> 2.8. <hi>Duet.</hi> 32.10. Suffer ſo many and greivious afflictions here? what ſhall his adverſaries ſuffer in hell. If <hi>Sampſon</hi> be thus puniſhed, ſhall the <hi>Philiſtems</hi> eſcape? Yea, if judgement begin at the houſe God, what ſhall their end be that obeay not the Goſpel. 1 <hi>Pet.</hi> 4.17. If many ſhall ſeeke to enter in at the ſtraight gate and ſhall not be able, how ſhall
+<pb n="8" facs="tcp:123012:5"/>they be able who ſeeke not at all. <hi>Luke</hi> 13.24. If the righteous ſhall ſcarcely be ſaved, when ſhall the ungodly and ſinner appea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e? as the Scripture ſpeakes. 1 <hi>Pet.</hi> 4.18. So that mercy i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for veſſells of mercy. <hi>Mat.</hi> 5. and not for veſſells of wrath.</p>
+               <p>And what though Chriſt in the Goſpell, hath made many large and precious promiſes? ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are none ſo generall, which are not limitted with the condition of faith, and the fruit thereof unfained repentance. And each of them are ſo tyed &amp; entailed, that none can lay claim to them but true beleevers: who repent and turne from all their ſinnes, to ſerve him in holyneſſe, with<g ref="char:EOLhyphen"/>out which no man ſhall ſee the Lord <hi>Heb.</hi> 12.14. <hi>Iſay</hi> 59 20. So that he muſt forſake hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſinnes that will have God to forgive them. 1 <hi>Sam.</hi> 2.30. <hi>Marke</hi> 16.16. <hi>Heb.</hi> 5.9.</p>
+               <p>Neither was it ever heard, that any one aſcended into heaven without going up the ſtaires o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obedience and good workes: that any have attained unto everlaſting life, without faith, repen<g ref="char:EOLhyphen"/>tance, and ſanctification; for even the theife upon the croſſe, (which you ignorantly aleadge) beleeved in Chriſt, and ſhewed the fruits of his faith, in acknowledging his owne ſinne, repro<g ref="char:EOLhyphen"/>ving his fellow, in confeſſing our Saviour Chriſt even then when his Apoſtles denied, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forſooke him; in calling upon his name, deſiring and confidently truſting by his meanes and merrits, to have everlaſting life. Neither doth his example make any whit for the comfort o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> procraſtinators, for he is a foole that makes an ordinary rule of an extraordinary example: and ſuch is this of the theifes convertion, for it was a miracle. Not unlike the Suns ſtanding ſtill in <hi>Ioſhuas</hi> time, or its going backe in the dayes of <hi>Hezekiah.</hi> Or rather thoſe other miracle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the graves opening, the dead ariſing, the vaile of the temple renting, the light of the Sunne failing, &amp;c. which Chriſt wrought at the ſame time; with the glory whereof, our Saviour would honour the ignominy of his Croſſe. Beſides, hee was then to take his leave of the world, and to enter into his glory, and we know it is uſuall with Princes to ſave ſome hainous malefactors at their coronation, when they enter upon their Kingdomes in tryumph, which they are never knowne to doe afterward Beſides, the Scripture ſpeakes of ano<g ref="char:EOLhyphen"/>ther, even his fellow; in that very place, and at that very inſtant, which was damned. There was one ſaith St. <hi>Auſtine</hi> converted at the laſt hower, that none might diſpair; there was bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one that none ſhould preſume. Yet every drunken beaſt, &amp; ſwearing Athieſt, can wreſt this ſcrip<g ref="char:EOLhyphen"/>ture to their owne diſtruction, and decoct the mercy of God in pardoning him, into ranck<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poyſon, taking the ſame for an encouragement, and thinkeing it a ſufficient warrant for them to continue in their evill and vicious courſes.</p>
+               <p>Not once taking notice of other Scriptures, which ſhew that millions who had leſſe iniqui<g ref="char:EOLhyphen"/>ty, have found leſſe mercy. And that whoſoever Chriſt ſaveth with his blood, he ſanctifieth with his ſpirit, and in whom his death taken takes away the guilt and puniſhment of ſinne, it is al<g ref="char:EOLhyphen"/>ſo effectuall for the mortifying of ſinne, as is plaine by <hi>Rom.</hi> 6.5, 6. <hi>Titus</hi> 2.14. <hi>Epheſ.</hi> 1.4. and many the like, Yea, the Lord bindeth it with an oath, that whomſoever he redeemeth out of the hands of their ſpirituall enemies; they ſhall worſhip him in holyneſſe and righteouſneſſe all the dayes of their life. <hi>Luk.</hi> 1.70. to 76. Other Scriptures to this purpoſe are many, ſee only, <hi>Titus</hi> 2.12. 1 <hi>Pet.</hi> 2 24.</p>
+               <p>But to make it yet more cleare, what elſe did thy vow in baptiſme (which is a ſeale of the Covenant) importe? but that there are Articles &amp; conditions, viz. Certain duties on thy part to be performed, as well as promiſes on Gods part to be fullfiled. A Sacrament is a ſealing of a league with Covenants, between party and party ſaith <hi>Parreus</hi> Now as God hath covenan<g ref="char:EOLhyphen"/>ted, and bound himſelfe by his word and ſeale to remit thee thy ſinnes, adopt and regenerate thee his childe, give thee the Kingdome of heaven, and everlaſting life, by and for his ſons ſake: ſo thou diddeſt for thy part, bind thy ſelfe by Covenant, promiſe and vow: that thou wouldeſt forſake the Divell and all his workes, conſtantly beleeve Gods holy word, and obe<g ref="char:EOLhyphen"/>diently keepe his commandements, the better thereby to expreſſe thy thankefulneſſe towards
+<pb n="9" facs="tcp:123012:5"/>him, for ſo great a benefit. 1 <hi>Pet.</hi> 4.1, 2, 3. <hi>Pſal.</hi> 116.12, 13.14. And we know that in-Covenants and Indentures, if the conditions be not kept, the Obligation is not in force. Where<g ref="char:EOLhyphen"/>by many (even <hi>Magus</hi> like) after the water of Baptiſme, goe to the fire of hell. Yea, except we repent and beleeve the Goſpell, we are perjured; and that holy Sacrament, together with the offer of grace, and in ſtead of ſealing to us our ſalvation, will be an obligation under our hand and ſeale againſt us, and ſo prove a ſeale of our greater condemnation.</p>
+               <p>Alaſſe ignorant Worldlings (who will beleeve nothing which comes not within the com<g ref="char:EOLhyphen"/>paſſe of their five ſences) thinke that becauſe God ſtrikes not he mindes not. <hi>Pſal.</hi> 50.21. Becauſe ſentence againſt an evill worke is not executed ſpeedily, therefore the heart of the children of men, is fully ſet in them to doe evill, as <hi>Solomon</hi> ſpeakes. <hi>Eccleſ.</hi> 8.11. Becauſe God doth not forthwith ſtrike one dead with a Thunder Bolte, and raine downe fier and brimeſtone upon another, and cauſe the earth to ſwallow downe a third quick; while they are blaſpheming him: though I might give you many examples of Gods vengance upon ſwearers even here: men harden themſelves in their ſinnes, and thinke that God allowes of their do<g ref="char:EOLhyphen"/>ings. But O fooles, though he comes ſoftly to judgement, yet he will come ſurely, and in the end what he wanted in ſwiftneſſe, ſhall be ſupplied in ſevereneſſt Yea, ſuch mens very delive<g ref="char:EOLhyphen"/>rance from judgement, is a worſe judgement then the judgement from which they are delive<g ref="char:EOLunhyphen"/>red, for it argues, either Gds utter forſaking them as diſperate patients are given over by the Phyſitian as in <hi>Iſay</hi> 1.5. or elſe it argues a reſervation of them for ſome more fearfull plagues, as it is <hi>Levit.</hi> 26.18. to 40 and <hi>Eſay</hi> 6.10.11. and the examples of <hi>Cham, Lots</hi> wife, <hi>Ab<g ref="char:EOLhyphen"/>ſolom</hi> and <hi>Pharoah</hi> ſufficiently prove. As what did it availe <hi>Pharoah,</hi> that himſelfe was not ſmitten with many of thoſe judgements, wherein others periſhed, it was far from being a mer<g ref="char:EOLhyphen"/>cy, yea it was a reſervation to the greateſt temporall judgement of all here, and to that eter<g ref="char:EOLhyphen"/>nall judgement alſo in the burning lake, from which there is no redemption. God owes that man a greivious payment, whom he ſuffers to run on ſo long unqueſtioned, and his puniſh<g ref="char:EOLhyphen"/>ment ſhall be the greater, when he comes to reckon with him for all his faults together. When God will give over men to his iudgements, he firſt gives them over to the iudgement of an hard and impenitent heart. Thou haſt ſmitten them ſaith the Prophet, but they have not ſor<g ref="char:EOLhyphen"/>rowed. Thou haſt conſumed them but they have refuſed to receive correction, they have made their faces harder then a ſtone, and have refuſed to returne. <hi>Ier.</hi> 5 3.</p>
+               <p>Which is now <hi>Englands</hi> caſe, for though its back be all blew and ſore with ſtripes, yet ſtill it perſiſts and preſumes, no repentance, no reformation, (underſtand it of the generality) nor will wee be warned without our full vengance, As filching leaves not the pil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erer with raw ſides, but brings him to a broaken necke. They will not beleeve that are ordayned to periſh. As tell me, of ſo many millions of notorious ſinners as were in this land: how many, or where are any; who from the beginning of theſe bloody and unnaturall warrs, theſe ſad and calamitus diſtemp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, have left off their drinking, ſwearing, whoreing, prophaning of the Lords day, cheating and the like; can you name tenn, yea or two of a thouſand which you partly knew, no certainly; for he that was a drunkard before, is a drunkard ſtill, he that was a ſwearer before, is a ſwearer ſtill, he that was filthy before, is filthy ſtill, &amp;c. Though ſuch a judgement in a different age, (wherein religion it ſelfe and the power of godlyneſſe was not countemptible as now it is) would have cauſed an univerſall repentance and reformation, as the like (only threatned, not executed) did in the <hi>Nine vites. Jona.</hi> 3</p>
+               <p>But what doe I ſpeake of their repentance and reformation, or of their being the better, when they are much the worſe for this greivious judgement<g ref="char:punc">▪</g> When the greateſt number ſweare &amp; curſe even in a preſumptious bravery, as neither regarding Gods wrath nor waying his hea<g ref="char:EOLhyphen"/>vy diſpleaſure. Being like ſo many mad doggs, that fly in their maſters face who keepes them. Yea, when they will ſcoff at, jeere and perſecute any, that ſhall refuſe to run with them unto the ſame exceſſe of riot. 1 <hi>Pet.</hi> 4.4. even living as if they were neither beholding to God, nor afraid of him, both out of his debt and danger.</p>
+               <p>
+                  <pb n="10" facs="tcp:123012:6"/>
+Oh the ſmall hopes that we have of Gods ſheathing his ſword, and the many and woeful, ſymetomes of an univerſall diſtruction of our whole Nation, (whom God hath more honou<g ref="char:EOLhyphen"/>red with the meanes of grace then any nation under heaven) for this we may build upon; that God will never leave ſmiting, till we ſmite that which ſmiteth at his honour. Was it the Lords complant againſt <hi>Ieruſalem,</hi> when he threatned her deſtruction by <hi>Nebuchadnezar?</hi> I called to weeping and mourning, and to baldneſſe and girding with ſackcloth; but behold joy and gladneſſe, ſlaying oxen and killing ſheepe, eating fleſh and drinkeing wine. <hi>Iſay</hi> 22.12.13 For which he was ſo highly offended, that he tells them this their iniquity ſhould not be purged till death verſe 14?</p>
+               <p>what then may wee juſtly looke for, when we drinke, and ſweare, &amp; cheate and whore, as if there were no God to judge, nor hell to puniſh, nor heaven to reward? which ſinnes at any time were abominable, but now (and that upon dayes of humiliation) they are moſt execra<g ref="char:EOLhyphen"/>ble. Yea, what other is this, then to imitate the <hi>Thra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ians,</hi> who when it lightens and thun<g ref="char:EOLhyphen"/>ders, ſhoot arrowes againſt heaven; thinking by that meanes to daw God to ſome reaſon.</p>
+               <p>And yet theſe men profeſſe and call themſelves Chriſtians, and looke that others ſhould e<g ref="char:EOLhyphen"/>ſteeme them ſo: yea, they dare call God father, and expect that he ſhould give them the King<g ref="char:EOLhyphen"/>dome of heaven: and not only ſhew their faces in the Temple; but with their mouthes receive (as they thinke) the ſacred body and blood of the Lord of life. But will God owne ſuch wic<g ref="char:EOLhyphen"/>ked and prophane wretches for his children? no ſuch matter. He will one day (if they repent not) turne them over to the god of this world. <hi>Epheſ.</hi> 2.2. 2 <hi>Tim.</hi> 2 26 <hi>Iohn</hi> 12.31. and 14<g ref="char:punc">▪</g> 30. And ſay to them as once Chriſt to the Jewes. <hi>Iohn</hi> 8.44. Yee are of your father the Devill. Neither can he be a good God, who hath ſuch evill ſonnes: As the <hi>Indians</hi> told the <hi>Spaniards</hi> when they firſt came amongſt them, after they had obſerved their conditions.</p>
+               <p>But I need ſay no more, you have heard what God himſelfe hath both ſaid and ſworne in his word. And in caſe you beleeve not <hi>Moſes</hi> and the Prophets, Chriſt and his Apoſtles, you would never be perſwaded, although one ſhould be ſent unto you from the dead, to teſtifie what a place of torment you are (without repentance) going unto. <hi>Luke</hi> 16.31. Wherefore doe you beleeve there is a God? and that he ſpeakes as he meanes in his word? are you a Chriſti<g ref="char:EOLhyphen"/>an? if you be there is an hell in your creed, If there be an hell, how dare you tare heaven with your blaſphemies? and bandy the dreadfull name of God in your impure and miry mouth by your bloody oathes and execrations. Doe not ſtifle your conſcience, nor ſtop your eares againſt the mennaſes, and threats of God in his word. Flatter not your heart with an opinion that he is all mercy: but beleeve peremptorily and fully what the word ſpeakes: as well the commands and threats, as the promiſes: And not what Satan and his adherents (the world and the fleſh) ſuggeſts of meeting with heaven at the laſt houre, when all your life long you have gallowped in the beaten road towards hell. Or to uſe our Saviours owne words, Doe not ſtop your eares, and winke with your eyes; leaſt you ſhould ſee with your eyes, and heare with your eares, and underſtand with your heart, and ſo ſhould be converted. <hi>Mat.</hi> 13.15. <hi>Acts</hi> 28.27. Yea, if you beare any good will to your owne ſoule, breake off your ſinnes by repentance, give no longer credit to the fleſh or the Devill which propheſie proſperity to ſinne; (as once the Pope to the powder traytors) but beleeve God and the Scripture; which manifeſtly proves, that every man ſhall be judged according to his workes. <hi>Revel.</hi> 20.13. and 22.12. Make not Chriſt a bol<g ref="char:EOLhyphen"/>ſter for ſinne, nor Gods mercy a warrant for your continuing in an evill courſe. Be not there<g ref="char:EOLhyphen"/>fore evill becauſe he is good, leaſt like the fooliſh builder, <hi>Luke</hi> 14. you come ſhort of your rec<g ref="char:EOLhyphen"/>koning.</p>
+               <p>Oh what a blaſphemous imagination is this againſt Jeſus Chriſt! to thinke that he came in<g ref="char:EOLhyphen"/>to the world to be a patron of ſinne, or a Bolſter whereupon we may more ſecurely ſleepe in ſenſuality; and not to deſtroy the workes of the Devill as it is, 1 <hi>Iohn</hi> 3.3.8.9.10. O that Chriſtians ſhould ſo live, as if the practiſe of the Goſpell were quite contrary to the rule of the law! But ſuch men ſhew what they are, for none but baſe minds, and perverſe diſpoſitions
+<pb n="11" facs="tcp:123012:6"/>ſaith St. <hi>Barnard,</hi> will therefore be evill becauſe God is good. And thoſe that belong to Gods election, and for whom Chriſt died, will never make that liberty which he hath purchaſed for them with his pretious blood, a warrant or cloak to ſin, but rather a ſpur to inſite them to godli<g ref="char:EOLhyphen"/>neſſe. As nothing ſo ſoone leades an ingenious minde to repentance, as when he conſiders Gods bountifullneſſe, and long ſuffering towards him, <hi>Rom.</hi> 2.4. What ſaith holy <hi>David,</hi> There is mercy with thee that thou maieſt be feared. <hi>Pſal.</hi> 130.4. Not that thou mighteſt be diſpiſed, blaſphemed, &amp;c. Yea, know this, and wright it in the table booke of thy memory and on the table of thine heart; that if Gods bountifulneſſe and long ſuffering towards thee, doe not lead thee to repentance, it will double thy doome, and increaſe the pile of thy torments; for every day which does not abate of thy reckoning will increaſe it; and thou by thine hardneſſe and impenetencie, ſhalt but treaſure up unto thy ſelfe wroth againſt the day of wroth, and the declaration of the juſt judgement of God. <hi>Rom.</hi> 2.4, 5.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer.</speaker>
+               <p>
+                  <hi>This is but one doctors opinion, another (who knowes as much as you) will judge you but a legall preacher, and call it ridgid devinity which breathes out nothing but damnation: as being a meanes to make men diſpayer, rather then win them to Chriſt. Are all damned except a few preſizians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>I know it is the divinity of divers, Let men live how they liſt, in ignorance and all abominable filthyneſſe; ſo they call at laſt, and but ſay Lord have mercy upon me, we muſt infalably conclude their eſtate as good as the beſt, as if the Lord had not ſaid you ſhall cry and not be heard. <hi>Pro.</hi> 1.24. to 32.</p>
+               <p>I know alſo, that the Church hath never in any age, or place of the world, beene without many falſe prophets: who are very ready to withſtand, and contrary whatſoever doctrine the true prophets are commanded by God to deliver, and you may alſo ſee it 1 <hi>Kings</hi> 22. 6.23.24. <hi>Ier.</hi> 5.12.13.31. and 6.14, 15. and 8.11. and 14.13. to 19. and 26.8.9. <hi>Acts</hi> 13, 7. to 12. and 17.18. to 21. and 20.29.30. <hi>Ezek.</hi> 22.25, 26.28. <hi>Deut.</hi> 13.3. <hi>Mar.</hi> 7.15. and 24.5.11.24. 2 <hi>Tim.</hi> 3.8. 2 <hi>Cor.</hi> 11.13. 2 <hi>Pet.</hi> 2.1, 2, 3. <hi>Phil.</hi> 3.18. And theſe doe all that poſſibly they can, (by wreſting and miſaplying the Scripture) to diſcourage the godly, and incourage the wicked. And therefore in ſtead of diſcovering of, and rebuking for ſinne, <hi>Lam.</hi> 2.14. (which is the firſt ſtep tending to edification and converſion) they flatter the people in their ſinnes, as thoſe confederates of <hi>Korah</hi> did <hi>Iſrael;</hi> The Congregation is holy enough. <hi>Numb<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 6.3. O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> preach p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o them, as the Serpent to <hi>Eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> yee ſhall not dye at all <hi>Gen.</hi> 3.4, 5. Or promiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m good ſucceſſe in an evill way; as thoſe 400 falſe prophets to <hi>Aha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e up and proſper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll deliver it into thine hand; 2 <hi>Chron.</hi> 18.11. Which the h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt calls daubing with untempered m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rter, <hi>Ezek.</hi> 13 14.15 and 22.28. Saying, more<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver that from theſe Prophets, prophanes goes forth into all the land <hi>Ier.</hi> 23.15. Where<g ref="char:EOLhyphen"/>as if they diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harged their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty, and deal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inly with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> people; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld turne them from their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill way, and from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evill of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſe 21, 22. N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r can there be a bet<g ref="char:EOLhyphen"/>ter p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oofe of a falſe teacher then ſoothing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nke trick; to heale an ulcer and leave in the cor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Yea, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> good Phyſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian, either for ſoule o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> body doth not firſt tell us the ſtate of the diſeal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, with us ſymtomes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ribe; and in preſcribing, firſt pull downe the body, and then raiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h cordia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe patient would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rpe me<g ref="char:EOLhyphen"/>dicens, and bitter potions, make ſhort diſeaſes, and pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure ſound hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> touching Mini<g ref="char:EOLhyphen"/>ſters that edifie to damnation, I refer you to a ſmall booke called, <hi>An Abſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> of ſome late Characters:</hi> where they are painted out to the life Secondly, How much better it is to ſtrike the conſcience, then ſtroake the eare; I ſhall ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w you hereafter upon another occaſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Third<g ref="char:EOLhyphen"/>ly touching what I have ſaid, as it is for the diſcharge of my duty, and according to Gods expreſſe command. <hi>Levit.</hi> 19.17. <hi>Heb</hi> 2.13. So ſearch the Scriptures, and try whether my doctrine and allegations be of God or no, as thoſe noble <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reans</hi> did when <hi>Paul</hi> preacht. <hi>Acts</hi> 17 11. And then if they agree not with the penſill of the Holy ghoſt reject them, but if they doe, e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>teraine it, as if it were an epiſtle ſent from God himſelfe, to invi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and call you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:123012:7"/>repentance. And ſo doing it ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll (with Gods bleſſing upon it) be unto you, as <hi>Ionathans</hi> three Arrows were to <hi>David,</hi> which occaſioned his eſcape from <hi>Saules</hi> fury. O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as <hi>Davids</hi> harpe was to <hi>Saule,</hi> which frighted away the evill ſpirit from him. 1 <hi>Sam</hi> 16.23, Yea as the Angell was to <hi>Peter, Acts</hi> 12.7. to 12 that opened the Iron gates, looſed his bands, brought him out of the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſon, and delivered him from the thraldome of his enemies. Which is my prayer and hope, and ſhould be my joy to ſee it. Theſe things have I ſaid, that yee might be ſa<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, 1 <hi>Cor.</hi> 10 33.</p>
+               <p>wherefore conſider ſeriouſly what I have ſaid and doe not, Oh doe not mocke at Gods word, nor ſport away your ſoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into thoſe paines which are eaſeleſſe, endleſſe and remedileſſe. Shall we give an account at the day of judgement for every idle word we ſpeake, <hi>Mat.</hi> 12.36. &amp; never give a r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckoning for our wicked ſwearing &amp; curſing? we ſhall be judged by our words. verſe 37.</p>
+               <p>Are you willing to be ſaved? if you are, Breake of your ſinnes by repentance. <hi>Dan.</hi> 4.24. Ceaſe to doe evill, lea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne to doe well. <hi>Iſay</hi> 1.16.17. Seriouſly greive and bewayle, for the mil<g ref="char:EOLhyphen"/>lions of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes that you have blaſphemed God and peirſed your ſaviour, and never more com<g ref="char:EOLhyphen"/>mit the l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke impiety. Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a doe not only leave your ſwearing, but feare an oath and make con<g ref="char:EOLhyphen"/>ſcience of it, reſolve not to take the glorious name of God in vaine, nor place any other crea<g ref="char:EOLhyphen"/>ture in his roome: though the Divell ſhould ſay unto you, as once he did to Chriſt all this will I give thee.</p>
+               <p>For it is not enough that we abſtaine from evill, unleſſe we hate it alſo, and doe the con<g ref="char:EOLhyphen"/>trary good Sanctifie the Lord God in your heart, 1 <hi>Pet.</hi> 3.15. Make a Covenant with your m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth, as <hi>Ioh</hi> did with his eyes, and ſet a watch before the doore of your lips, that you thus offend not with your tongue <hi>Pſal.</hi> 141.3.</p>
+               <p>Which if you do rightly, the like care to avoyde all other ſins will neceſſarily follow: becauſe he that feares to commit one ſin out of conſcience, and becauſe God forbids it, will upon the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ground, feare all that his law forbids, and as heartily, and unfainedly deſire that he may never commit it, as that God ſhould never impuce it 2 <hi>Tim</hi> 2.19. Neither can a reg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nerate m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd conſiſt with a determination to continue in any one ſinne; as when Chriſt caſt out one Devill, wee read that he caſt out all, even the whole Legion, <hi>Marke</hi> 5, 2, And he that makes not ſome conſcience of all ſinne, makes no true conſcience of any ſinne,</p>
+               <p>And the ſame is to be underſtood alſo of duties commanded, for the ſame law which injoynes us to hate and forſake all ſinne, commands us alſo to ſtrive after univerſall obedience to eve<g ref="char:EOLhyphen"/>ry precept. And it is a true rule, he that hath not in him all chriſtian graces in their meaſure hath none, and he that hath any one truly hath all. He that is not ſanctified in every part, is truly ſanctified in no part. 1 <hi>Pet.</hi> 1.15. 2 <hi>Pet.</hi> 3.11. <hi>Mat.</hi> 5 48. 2 <hi>Tim.</hi> 3.17. 2 <hi>Cor.</hi> 7.1. And the leaſt ſin alowed of, be it but a vaine thought, or one duty omitted: is enough to caſt thee into hell; for the wages of ſinne (any ſinne be it never ſo little) is death. <hi>Rom.</hi> 6 23. <hi>James</hi> 1.15. Yea, admit thou hadſt never acted any the leaſt evill in all thy life, it were not enough to ſave thee from hell, much leſſe to bring thee to heaven, for we need no more to condemne us, then what we brought into the world with us. <hi>Gen.</hi> 2.17. <hi>Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 51.5. <hi>Rom.</hi> 5.12. Whence the new borne child in the law was commanded to offer a ſinne offering. <hi>Levit</hi> 12.6.</p>
+               <p>Which grace if you would obtaine; Firſt, lay to heart the things formerly delivered. Beleeve thine eſtate dangerous, and that there is but one way to help thee, viz. to repent what thou haſt done, and never more to do wilfully or premedetately what thou haſt repented<g ref="char:punc">▪</g> not foſte<g ref="char:EOLhyphen"/>ring one knowne ſinne in thy ſoule. For the only way to become good, is firſt to beleeve that thou art evil; and by accuſing our ſelves we prevent ſatan, by judging our ſelves we prevent God.</p>
+               <p>Scondly, If thou beeſt convinced, and reſolveſt upon a new courſe, let thy reſolution be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remtory and conſtant: and take heed thou hearden not againe as <hi>Pharoah,</hi> the <hi>Philiſtems,</hi> the Yong man in the Goſpel, <hi>Pilate</hi> and <hi>Judas</hi> did. Reſemble not the Iron which is no longer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oft then it is in the fier, be not like thoſe which are ſea ſicke, who are much troubled while
+<pb n="13" facs="tcp:123012:7"/>they are on ſhipbord but preſently well againe when they come to ſhore; for that good ſaith St. <hi>Gregory</hi> will doe us no good, which is not made good by perſeverance. If with theſe premoni<g ref="char:EOLhyphen"/>tions, the ſpirit ſhall vouchſafe to ſtir up in thy heart any good motions, and holy purpoſes to obey God, in letting thy ſins goe; quench not, grieve not the ſpirit. 1 <hi>Theſ.</hi> 5.19. returne not with the dog to thy vomit, leaſt thy latter end prove ſeven fold worſe then thy beginning: <hi>Mat.</hi> 12.43.45. As it fared with <hi>Iulian</hi> the Apoſtate, and <hi>Iudas</hi> the Traitor: Oh it is a fearfull thing to receive the grace of God in vaine, and a deſperate thing being warned of a rock, will fully to caſt our ſelves upon it.</p>
+               <p>Thirdly, Let not Satan perſwade you to defer your repentance: no not an houre, leaſt your reſolution proves as a falſe conception that never comes to bearing, for as ill debtors put off their creaditors, firſt one weeke and then another, tell at laſt they are able to pay nothing. So deale delayers with God. Beſids, Death may be ſuddain, even the leaſt of a thouſand things can kill thee and give thee no leaſure to be ſicke.</p>
+               <p n="2">2. Or if death be not ſuddain, repentance is no ſuch eaſie worke, as to be put off to ſickneſſe: And though true repentance be never too late, yet late repentance is ſeldome true. And indeed there is ſmall hope of repentance at the houre of death, where there was no regard of honeſty in the time of life, and millions are now in hell, who thought they would repent hereafter: not being wiſe enough to conſider, that it is with ſin in the heart, as with a tree planted in the ground, which the longer it groweth, the harder it is to be pluckt up; or a nayle in a poſt, which is made faſter by every ſtroake of the hammer. Can the Blackamore change his skin, or the Leopard his ſpots? then may yee alſo doe good that are accuſtomed to doe evill ſaith the Lord, <hi>Ier.</hi> 13.23.</p>
+               <p n="3">3. Or ſuppoſe after many yeares ſpent in the ſervice of ſinne and Satan: thou art willing to relinquiſh thy luſts, and offer to God thy ſervice, and beſt devotions at the laſt gaſpe: Will he accept of them? No, he hath expreſly told us the contrary <hi>Pro.</hi> 1.24. to 32. Yea is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> likely that God will accept of thy dry bones, when Satan hath ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kt out all the marrow: that he will give his heavenly and ſpirtuall graces at the houre of deah, to thoſe who have c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mned them all their life. Yea, is it not moſt juſt and equall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f God will not be found of thoſe that were content to looſſe him: If he ſhut his eare againſt their prayers, calling to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m for pardon: that ſtopt their eares againſt his voice, calling upon them for repentance? The Lord hath made a promiſe to late repentance, not of late repentance. If thou converteſt to morrow, thou art ſure of grace, but thou art not ſure of to morrowes converſion. If in any reaſonable time we pray he will heare us, if we repent he will pardon us, if we am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd our lives he will ſave us; but for want of this conſideration, <hi>Dives</hi> prayed but was not heard. <hi>Eſau</hi> wept but was not pitied, the fooliſh Virgins knockt but were denied. And ſo thouſands have cried unto God at the houre of death and found no acceptance: but they died as they lived, and went from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſpayer unto diſtruction.</p>
+               <p>Wherefore as you tender the good of your owne ſoule, ſet upon the worke preſently, provide with <hi>Ioſeph</hi> for the Dearth to come: With Noah in the dayes of thine he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lth, build the arke of a good conſcience aganſt the floods of ſickneſſe. Imitate the Ant, who provides her meat in ſommer for the winter following. Yea, doe it whilſt the yearning bowells; the bleeding wounds, &amp; compaſſionate armes of Jeſus Chriſt lie open to receive you. Whiles you have health, and life and meanes, and time to repent, and make your peace with God in Chriſt: as you tender I ſay the everlaſting hapineſſe and well-farre of your almoſt loſt and drowned ſoule, as you ex<g ref="char:EOLhyphen"/>pect or hope for grace or mercy, for joy and comfort, for heaven and ſalvation, for endleſſe bliſſe and glory at the laſt. As you would eſcape the dyerfull wroth of God, the bitter ſentence &amp; doom of Chriſt, the neverdying ſting, &amp; worme of conſcience, the tormenting &amp; ſoule ſcorch<g ref="char:EOLhyphen"/>ing flames of hel, &amp; everlaſting ſeperation from Gods blisful preſents, abjure &amp; utterly renou<g ref="char:cmbAbbrStroke">̄</g>ce all willfull and affected evill; &amp; in the firſt place this abominable ſin of ſwearing &amp; curſing.</p>
+               <p>Fourthly, If thou wouldeſt hould out in thy good purpoſes, and bring thy thoughts to the
+<pb n="14" facs="tcp:123012:8"/>birth, fly evill company for feare of infection; becauſe it is exceeding hard and difficult, not to fall into thoſe ſinnes unto which the eyes and the eares are inured. It is rare if with <hi>Peter</hi> we deny not Chrſt, in <hi>Caiphas</hi> his houſe; With <hi>Soloman</hi> we ſhall find that it is hard having the <hi>Egyptian</hi> without her Idols. Yea, be as carefull to avoide all the occſions of ſinne as ſinne it ſelfe, and not now and then, but continually.</p>
+               <p>Fiftly, Be dilligent to heare Gods word (powrfully preached) which is the ſword of the ſpirit that killeth our corruptions, and that unreſiſtable cannon ſhot which beateth and batte<g ref="char:EOLhyphen"/>eth downe the ſtrong houlds of ſinne and Satan.</p>
+               <p>Sixtly, Ponder and meditate ſeriouſly on Gods ineſtemable love towards us, who hath not ſpared to give his only beloved ſonne, out of his boſome to dye for us and to purchaſe thereby every good thing we do injoy either for ſoule or body, even to the leaſt bit of bread we eate, &amp; this will make thee, (if thou haſt any ingenuiety) to direct all thy thoughts, ſpeeches, and acti<g ref="char:EOLhyphen"/>ous to his glory, as he hath directed thy eternall ſalvation thereunto: and often force thee to breake out into this or the like expreſſion; What ſhall I render un<g ref="char:cmbAbbrStroke">̄</g>to thee O Lord for all thy benefits, but love thee my Creator, and become a new creature.</p>
+               <p>Seventhly, Conſider that the Lord beholdeth thee in all places, and in every thing thou doeſt; even as the eyes of a well drawne picture are faſtned on thee which way ſo ever thou turneſt. Yea, conſider him as a juſt judge, who will not let this curſed ſin goe unpuniſhed: and this will make thee keepe a narrower watch over thy thoughts, then any other can do over thy actions.</p>
+               <p>Eightly and laſtly, But chieſly and principally, Omit not to pray for the aſiſtance of Gods ſpirit, otherwiſe thy ſtrength is ſmall; yea, except God give thee repentance, and removes all impediments that may hinder, thou canſt no more turne thy ſelfe, then thou couldeſt at firſt make thy ſelfe. We are not ſufficient of our ſelves to thinke, much leſſe to ſpeake, leaſt of all to doe ought that is good, 2 <hi>Cor.</hi> 3.5. <hi>Iohn</hi> 15.4, 5. We are ſwift to all evill, but to any good im<g ref="char:EOLhyphen"/>movable. Wherefore beg of God that he will give you a new heart, and when the heart is chan<g ref="char:EOLhyphen"/>ged, all the members will follow after it, as the reſt of the creatures after the ſun when it ari<g ref="char:EOLhyphen"/>ſeth. Importune him for grace, that thou maieſt firmely reſolve, ſpeedily begin, and continually perſevere in doeing and ſuffering his holy will. Deſire him to informe and reforme thee ſo, that thou maieſt neither miſbeleeve, nor miſlive. To regenerate thy heart, change and purifie thy na<g ref="char:EOLhyphen"/>ture, ſubdue thy reaſon, rectifie thy judgement, reforme and ſtrengthen thy will, renew thy affections, and beate downe in thee whatſoever ſtands in oppoſition to the ſepter of Jeſus Chriſt. In a word to give and increaſe in thee all chriſtian graces: that thou maieſt know, and beleeve, and repent, and amend, and perſevere in well doeing; not forgetting that prayer is the key of heaven.</p>
+               <p>Doe this, uſe the meanes, and looke up for aſſiſtance, Imitate the Matriner, who in ſayling ſets his hand<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o the ſterne, his eye to the ſtarre. and my ſoule for thine, thou art in the di<g ref="char:EOLhyphen"/>rect way to ar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at the port of eternall glory.</p>
+               <p>Only this let <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e add. Be ſure you wholy and only reſt on your Saviour Jeſus Chriſt for ſalva<g ref="char:EOLhyphen"/>tion, abhorring to attribute or aſcribe ought to doing: for our very righteouſneſſes are as filthy raggs. <hi>Eſay.</hi> 64.5. And the ſole prefection of a chriſtian, is the imputation of Chriſts righteouſ<g ref="char:EOLhyphen"/>neſſe, and the not imputation of his owne unrighteouſneſſe, a rule which we are very apt to ſwarve from, either on the right or left hand wherefore if you would not err, obſerve this goul<g ref="char:EOLhyphen"/>den mean, indeavour to live as if there were no Goſpel, &amp; to die as if ther were no law. And now for concluſion, If thou receiveſt any power againſt this greatevill, forget not to be thankefull, and when God hath the fruit of his mercys, he will not ſpare to ſow much where he reapes much. Many may ſhew you the way better, but none canſhew you a better way, and ſo having ſet before you life and death, I leave you to chooſe, which of them you like beſt</p>
+            </sp>
+            <sp>
+               <speaker>Swearer,</speaker>
+               <p>
+                  <hi>I ſee you are a Puritane?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>And why not Roundhead? (the name laſt coyned in the Devills mint) I confeſſe, formerly the word was Puritane, becauſe it was a capitall crime to be religious, but now it is
+<pb n="15" facs="tcp:123012:8"/>Roundhead (a terme of a larger extent) that men may not only be aſhamed to ſerve God and be ſaved, but even fear to be ſo much as civill: here you over ſhot your ſelfe; But ſince the religi<g ref="char:EOLhyphen"/>ous only are thornes in your eyes, give me your reaſon, Are all Puritains that love not ſwearing if ſo I am one indeed; if not, define what you meane by the name.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer,</speaker>
+               <p>
+                  <hi>Tell not me of diffinitions, for I am no ſcholler, but I hate a Puritaine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>It appeares indeed you were never a puple of Chriſt teaching though you call your ſelfe after his name: Or if ſo, you have forgot your firſt leſſon, for he tells you in his word, that the feare of God (which I am ſure you want) is the very beginning of wiſedome, <hi>Pro,</hi> 1.7.</p>
+            </sp>
+            <sp>
+               <speaker>Swearer,</speaker>
+               <p>
+                  <hi>How know you that I have not the feare of God? I bleſſe his name I feare him as well as you, and have as good an heart as the beſt, theugh I make not ſuch a ſhew as many doe, but all Puritains are thus ſencorious, whereas the Scripture ſaith; Iudge not that yee be not judged, for with what judgement yee judge yee ſhall be judged Mat.</hi> 7.1, 2.</p>
+            </sp>
+            <sp>
+               <speaker>Meſſenger,</speaker>
+               <p>Our Saviour in that place condemnes judging of our brotherfor motes or ſome ſo<g ref="char:EOLhyphen"/>dain eruptions, or appearances only, or determining of his finall eſtate, which makes nothing for habitruated ſwearers untill they repent, neither doe I determine of yourfuture eſtate; I know God can with a word of his mouth create in you a new heart, and that it is as eaſie with him to make a man religious as to bid him be ſuch; But touching the preſent, I may more then gueſſe that you are not. For doth not our Saviour tell us alſo, That out of the abundance of the heart the mouth ſpeak eth? <hi>Mat.</hi> 12.34. and that we ſhall know men by their fruits; That every good tree bringeth forth good fruit, and a corrupt tree evill fruit? <hi>Mat.</hi> 7.16.17.20. and 12.33. Doth not St. <hi>Iames</hi> ſay, If any man among you ſeemeth to be religious, and brideleth not his tongue, that man deceiveth himſelfe, and his religion is vaine: <hi>Iames</hi> 1.16. You may flatter your ſelfe, but evill ſpeaking diſcovers an evill heart; A corrupt ſtreame is an ill ſigne of a pure fountaine; neither ſhall you perſwade me, that good wine is in the veſſell, when only vinigar comes forth, if the words be helliſh and prophane, we may flatly conclude that the heart alſo is wicked; If you bleſſed God with your ſoule, you would not blaſpheme him with your tongue. Yea, could you rappe out oaths in ſuch a manner as you doe, if your conſcience were not, ſeared and your heart hardned, and you paſt felling, and deſtitute of all grace? No, its impoſſible; for the leaſt ſparke of the true feare of God in your heart would be as a bridle to curbe in this unruly evill of the tongue, that it ſhould not run ſo at randum, nor burſt out either into wicked or vaine ſwearing; If yee love me, ſaith our Saviour, keep my commandements. <hi>Iohn</hi> 14.15. Now what ſin will a man leave for Chriſts ſake, if he will not leave this which is every way unprofitable, and many wayes hurtfull? And what though the naturall man (who wants both the eye of faith and the light of Gods word and ſpirit) can perceive nothing amiſſe in his owne heart; yet one that is ſpirituall may: 1 <hi>Cor.</hi> 2.14.15. The diſeaſe appeares not many times to the Patient himſelfe, yet when he talkes idly, the Phiſutian knowes he is even ſick to death.</p>
+               <p>But what needs all this? when you fret and ſpurne againſt the good word of God, and ſwell againſt your reprehender; when with <hi>Balam</hi> and <hi>Herod</hi> you grudge to be ſtayed in the way to death, and fly'upon thoſe who oppoſe your perdition? which is an infallible argument that you are utterly deſtitute of the feare of God. Yea, he that will not heare of his faults, is not capable of amendment.</p>
+               <p>Yea, to be exaſperated with good counſell, and in ſtead of penetency to breake into choller; when fury ſparkles in thoſe eyes which ſhould guſh out with water; it is an evident ſigne of one that ſhall periſh; <hi>Pro.</hi> 29 1 Read the words and tremble, a man that heardneth his necke being of ten reproved ſhall ſuddainly be deſtroyed, &amp; that without remedy: ſee more <hi>Pro.</hi> 1.24.25.26. to 33. Whence it is the Prophet tells <hi>Amazia;</hi> I know that God hath determined to deſtroy thee, becauſe thou haſt done this, and haſt not obeyed my councell; 2 <hi>Chro.</hi> 25.16.20. and that the Holy ghoſt ſpeaking of <hi>Elyes</hi> ſonnes, ſaith that they would not hearken unto, uor obey the voice of their father, becauſe the Lord was determined to deſtroy them; 1 <hi>Sam.</hi> 2.25. That ſin is paſt al cure. which ſtrives againſt the cure Hearbs, that are worſe for warering
+<pb facs="tcp:123012:9" rendition="simple:additions"/>Trees that are leſſe fruitfull for dunging and pruning are to be rooted out, or hewen downe. Even ſalvation it ſelfe will not ſave thoſe that ſpill the potion, and fling away the plaſter. When God would have cured <hi>Babylon,</hi> and ſhe would not be cured, then ſhe is given up to deſtruction without further warning. Wherefore, boaſt what you will of a good heart; yea, ſweare alſo that you feare God, I know and am aſſured that you have not the feare of God before your eyes: as the Apoſtle ſpeaking of unbeleevers phraſeth it, <hi>Rom.</hi> 3.18 For as St, <hi>Iohn</hi> ſaith, If any man love the world the love of God is not in him, 1 <hi>Iohn</hi> 2 15 ſo if any man love ſwearing or curſing the feare of God is not in him, for it cannot be that the true feare of God and ordinary ſwearing &amp; curſing ſhould dwel together in one man. Yea, dead are they while they live that live in this ſin, <hi>Eph.</hi> 1, 2, 3 <hi>Col.</hi> 2.13. <hi>Math.</hi> 8.22. <hi>Iames</hi> 2.17. 2 <hi>Cor.</hi> 4.3, 4.2 <hi>Theſ</hi> 2 9.10. Nor ought beleev<g ref="char:EOLhyphen"/>ers (by the rule of Gods word) to eate or keepe company with ſuch, 2 <hi>Theſalo.</hi> 3.6.14. <hi>Epheſ</hi> 5.5.7 1 <hi>Cor.</hi> 5.11. 1 <hi>Tim.</hi> 1.10. But of this ſinne ſee more.</p>
+               <p>In
+<list>
+                     <item>Mr. <hi>Downames</hi> Treatiſe of ſwearing.</item>
+                     <item>Mr. <hi>Dod</hi> upon the third commandement.</item>
+                     <item>A late treatiſe called <hi>Sinne Stigmatized.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Out of which three bookes I have improved my owne tallent for the honour of the giver, and profit of the hearers. And as touching Puritaniſme, have but patience, and your ſelfe ſhall con<g ref="char:EOLhyphen"/>feſſe, that thoſe are not puritanes who are generally ſo reputed: but their accuſers; (viz. Pa<g ref="char:EOLhyphen"/>piſts, Prophaine, Ignorant and meere civill men, prelaticall; Arminian, Scandalous and Ma<g ref="char:EOLhyphen"/>lignant Miniſters) who are pleaſed, (either out of Ignorance or malice) to tearme and repute them ſo. Yea, I will make it ſo plaine by Gods aſſiſtance that every one preſent ſhall acknow<g ref="char:EOLhyphen"/>ledge the religious to be innocent and there accuſers to be guilty of the ſame things which you and the world blinded in judgement, judge of them, and moſt unjuſtly lay to their charge; whether you meane by a puritane.</p>
+               <p>One
+<list>
+                     <item>Who is pure in his owne eyes.</item>
+                     <item>Or who ſaies, and does not, ſeemes and is not.</item>
+                     <item>Or who under a ſhew of religion coſens the world.</item>
+                     <item>Or who ſtumbles at ſtrawes, and leapes over blocks.</item>
+                     <item>Or who is over ridged and ſenſorious.</item>
+                     <item>Or who is ſingular in his judgemment and practiſe.</item>
+                     <item>Or who is unquiet and contentious amongſt his neighbours.</item>
+                  </list>
+               </p>
+               <p>For this is the caſe, the men of the world thinke all that are ſcrupelous, and conſcionable to be puritanes: but they know (upon good ground from Gods word) all, who barke out this o<g ref="char:EOLhyphen"/>dious name to bee indeed ranke Puritanes and groſſe Hypocrites, and that they are in the con<g ref="char:EOLhyphen"/>dition of blind perſons, who ruſhing one upon another in the way: either complaines of the o<g ref="char:EOLhyphen"/>thers blindneſſe, but neither of his owne: for (for the moſt part) he alone that is guilty will be caſting theſe ſtones, &amp; complain of anothers unſavory breath, when his lungs only are corrupt</p>
+               <p>Thus the Author goes one in the conference tell he hath compleated his promiſe, and an<g ref="char:EOLhyphen"/>ſwered all the uſual queſtions in controverſie betweeen the <hi>Word</hi> and the <hi>World;</hi> as every one ſhall find that reads <hi>the cure of Miſpriſion.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>YOu that feare God, or have any bowells of compaſſion towards the precious ſoules of thoſe poore ignorant men, women and children, whom you heare to ſweare and curſe as doggs barke, (that is not more of curſtnes then out of cuſtome) wiſh them to read theſe few pages, at leaſt the firſt 5. or 6. which I thought fit to print even as I found it in the beginning of a Ma<g ref="char:EOLhyphen"/>nuſcript. And in caſe you perceive good come of it, give of them to your friends and neighbours At <hi>Iames Crumps</hi> a Booke-binder, in Little <hi>Bartholmewes</hi> Well yard, you may have as many <hi>Gratis,</hi> as you ſhall be pleaſed to diſtribute.</p>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>J. Downam.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag. I under the title, for poſtcript read poſtſcript. Pag. 1. l. 1. &amp; 22, &amp; 23. &amp; 25. for ſwaring r. ſwearing. Pag 1. l. 28. for kil read kill, &amp; therfore he muſt continue it. pag. 3 l. 30. for unpardonable, r. reſts unpardonable. Pag. 4. leave. out the 5. laſt lines. p. 4. l. 21 for there faith, 1. their faith, or ofter better ſecurity. p. 5.1.19. for well they deſerve it, r. &amp; well they de<g ref="char:EOLhyphen"/>ſerve it, pag 6. l. 26. for heirers, r. heires.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
